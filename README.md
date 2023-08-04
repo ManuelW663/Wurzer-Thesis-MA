@@ -24,4 +24,4 @@ Alle notwendigen Dateien finden sich ebenfalls in der HCU-Cloud unter
 https://cloud.hcu-hamburg.de/nextcloud/s/gCzWSJgmYnnbrRR
 
 Hier stehen neben der Arbeit selbst auch die verwendeten Gewichte und der Datensatz zur Verfügung.\
-Die Gewichte "saved_weights" müssen in den Ordner "code", der Datensatz "data" in die oberste Ebene der Verzeichnisstruktur eingebettet werden um den Programmcode auszuführen.
+Die Gewichte "saved_weights" müssen in den Ordner "code", der Datensatz "data" in das root-Verzeichnis eingebettet werden um den Programmcode auszuführen.
