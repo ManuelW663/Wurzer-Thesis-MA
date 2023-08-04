@@ -24,4 +24,6 @@ Alle notwendigen Dateien finden sich ebenfalls in der HCU-Cloud unter
 https://cloud.hcu-hamburg.de/nextcloud/s/gCzWSJgmYnnbrRR
 
 Hier stehen neben der Arbeit selbst auch die verwendeten Gewichte und der Datensatz zur Verfügung.\
-Die Gewichte "saved_weights" müssen in den Ordner "code", der Datensatz "data" in das root-Verzeichnis eingebettet werden um den Programmcode auszuführen.
+Die Gewichte "saved_weights" müssen in den Ordner "code", der Datensatz "data" in das root-Verzeichnis eingebettet werden um den Programmcode auszuführen.\
+Der Datensatz liegt im Ordner sowohl in seiner ursprüngliche Form vor, als auch in der Form, wie sie durch Ausführung des Notebooks "preprocess_data" erreicht wird. Da auch die Config-Dateien bereits vorhanden sind, kann das Notebook "run_tensorflow" nach Download aller Dateien und Erstellung der Anaconda-Environments ausgeführt werden.
+
