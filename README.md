@@ -47,5 +47,5 @@ Die Verzeichnisstruktur hat wie folgt auszusehen:\
 
 
 
-Der Datensatz liegt im Ordner sowohl in seiner ursprüngliche Form vor, als auch in der Form, wie sie durch Ausführung des Notebooks "preprocess_data" erreicht wird. Da auch die Config-Dateien bereits vorhanden sind, kann das Notebook "run_tensorflow" nach Download aller Dateien und Erstellung der Anaconda-Environments ausgeführt werden.
+Der Datensatz liegt im Ordner sowohl in seiner ursprüngliche Form ("BinaryLabels" und "RGBIR_DOP") vor, als auch in der Form, wie sie durch Ausführung des Notebooks "preprocess_data" erreicht wird ("224_patches"). Da auch die Config-Dateien bereits vorhanden sind, kann das Notebook "run_tensorflow" nach Download aller Dateien und Erstellung der Anaconda-Environments ausgeführt werden.
 
